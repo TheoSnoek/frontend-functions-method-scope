@@ -109,8 +109,8 @@ console.log("Het gemiddelde cijfer is: " + averageGrade(grades));
 // averageGrade([8, 9, 4, 6, 10]) geeft xxxx
 
 console.log(averageGrade(grades));
-console.log(array3);
-console.log(array4);
+console.log(array3 + "xxxx");
+console.log(array4 + "xxxx");
 /* 2c: Afronden op twee decimalen */
 // Zorg ervoor dat het gemiddelde cijfer dat wordt teruggegeven uit de functie netjes wordt afgerond op twee decimalen.
 // Tip: Google is your best friend!
